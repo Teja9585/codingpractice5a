@@ -1,0 +1,36 @@
+###
+ http://localhost:3000/ 
+ 
+
+### API-1
+GET http://localhost:3000/movies/
+
+### API-2
+POST http://localhost:3000/movies/
+
+
+
+### API-3
+GET http://localhost:3000/movies/:12/
+
+
+
+### API-4
+PUT http://localhost:3000/movies/:24/
+
+
+
+### API-5
+DELETE http://localhost:3000/movies/:movieId/
+
+
+
+### API-6
+GET http://localhost:3000/directors/ 
+
+
+
+### API-7
+GET http://localhost:3000/directors/:directorId/movies/
+
+
